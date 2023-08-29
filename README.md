@@ -23,6 +23,9 @@ Within each testnet directory, a genesis block is encoded using protobuf in a no
 - ...
 - `{transactionIdN}.transaction.pbuf`
 
+#### Creation
+A testnet genesis block can be created using the Bifrost CLI (not yet implemented at this time).  The CLI will output the files that should be uploaded (via Pull Request) to this repository.
+
 ## Node Launch
 A Bifrost node can be configured to point to this repository for its genesis configuration.  The custom configuration would include:
 ```yaml
