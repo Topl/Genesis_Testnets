@@ -10,7 +10,7 @@ Unlike the Topl "Mainnet", there may be many Topl "Testnets", especially as we i
 - ...
 
 ### Genesis structure
-Within each testnet directory, a genesis block is encoded using protobuf in a denormalized structure.  The contents should include:
+Within each testnet directory, a genesis block is encoded using protobuf in a normalized structure.  The contents should include:
 - `{blockId}.header.pbuf`
   - A protobuf-encoded BlockHeader file, where `{blockId}` is the ID of the genesis block
 - `{blockId}.body.pbuf`
