@@ -30,8 +30,8 @@ A testnet genesis block can be created using the Bifrost CLI (not yet implemente
 A Bifrost node can be configured to point to this repository for its genesis configuration.  The custom configuration would include:
 ```yaml
 bifrost:
-  bigBang:
+  big-bang:
     type: public
-    genesisBlockId: b_abcd123
-    sourcePath: https://raw.githubusercontent.com/Topl/Genesis_Testnets/main/testnet5/
+    genesis-id: b_6D8mXdqjsGrJbnXf6PqfWQrdTfKr3U5nbLGJGyYVgjqs
+    source-path: https://raw.githubusercontent.com/Topl/Genesis_Testnets/main/testnet0/
 ```
