@@ -1,0 +1,5 @@
+bifrost:
+  big-bang:
+    type: public
+    genesis-id: b_3ea9fj5Qy5jdmLXpZtpFaUsGQgwweABrjfG1EBLpB2v9
+    source-path: https://raw.githubusercontent.com/Topl/Genesis_Testnets/SEAN-demo-oct-12-23/oct-12-23
