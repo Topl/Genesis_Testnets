@@ -1,0 +1,22 @@
+bifrost:
+  big-bang:
+    type: public
+    genesis-id: b_EEW8TL4wdZhrD3V6P2stSQyJArVYn3emGiNfPJuRqXCk
+    source-path: https://raw.githubusercontent.com/Topl/Genesis_Testnets/update-testnet-0/testnet1
+  protocols:
+    0:
+      min-app-version: "2.0.0"
+      f-effective: "15/100"
+      vrf-ldd-cutoff: 50
+      vrf-precision: 40
+      vrf-baseline-difficulty: "1/20"
+      vrf-amplitude: "1/2"
+      chain-selection-k-lookback: 500 # Changed from 50 -> 500
+      slot-duration: 2000 milli # Changed from 1000 milli -> 2000 milli
+      forward-biased-slot-window: 50
+      operational-periods-per-epoch: 2
+      kes-key-hours: 9
+      kes-key-minutes: 9
+  p2p:
+    network-properties:
+      expected-slots-per-block: 12
