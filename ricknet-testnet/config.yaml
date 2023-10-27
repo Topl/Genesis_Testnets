@@ -1,7 +1,7 @@
 bifrost:
   big-bang:
     type: public
-    genesis-id: b_3ea9fj5Qy5jdmLXpZtpFaUsGQgwweABrjfG1EBLpB2v9
+    genesis-id: b_H3pXUFR2TbncBEsAZhsPftm3ynZswBL2XhUgpkzsgS29
     source-path: https://raw.githubusercontent.com/Topl/Genesis_Testnets/ricks-new-testnet/ricknet-testnet
   protocols:
     0:
