@@ -1,0 +1,19 @@
+bifrost:
+  big-bang:
+    type: public
+    genesis-id: b_3ea9fj5Qy5jdmLXpZtpFaUsGQgwweABrjfG1EBLpB2v9
+    source-path: https://raw.githubusercontent.com/Topl/Genesis_Testnets/ricks-new-testnet/ricknet-testnet
+  protocols:
+    0:
+      min-app-version: "2.0.0"
+      f-effective: "15/100"
+      vrf-ldd-cutoff: 50
+      vrf-precision: 40
+      vrf-baseline-difficulty: "1/20"
+      vrf-amplitude: "1/2"
+      chain-selection-k-lookback: 500 # Changed from 50 -> 500
+      slot-duration: 2000 milli # Changed from 1000 milli -> 2000 milli
+      forward-biased-slot-window: 50
+      operational-periods-per-epoch: 2
+      kes-key-hours: 9
+      kes-key-minutes: 9
