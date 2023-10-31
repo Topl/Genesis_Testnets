@@ -1,0 +1,107 @@
+outputs {
+  address {
+    network: 2471172352
+    ledger: 3887102464
+    id {
+      value: "\003\371\201cn\031\354\223f\000\000*\362\344DY\v\321bk\276,\216/\346\235\365\253H\254jt"
+    }
+  }
+  value {
+    updateProposal {
+      label: "genesis"
+      fEffective {
+        numerator {
+          value: "\003"
+        }
+        denominator {
+          value: "\024"
+        }
+      }
+      vrfLddCutoff {
+        value: 50
+      }
+      vrfPrecision {
+        value: 40
+      }
+      vrfBaselineDifficulty {
+        numerator {
+          value: "\001"
+        }
+        denominator {
+          value: "\024"
+        }
+      }
+      vrfAmplitude {
+        numerator {
+          value: "\001"
+        }
+        denominator {
+          value: "\002"
+        }
+      }
+      chainSelectionKLookback {
+        value: 500
+      }
+      slotDuration {
+        seconds: 1
+        nanos: 0
+      }
+      forwardBiasedSlotWindow {
+        value: 50
+      }
+      operationalPeriodsPerEpoch {
+        value: 24
+      }
+      kesKeyHours {
+        value: 9
+      }
+      kesKeyMinutes {
+        value: 9
+      }
+    }
+  }
+}
+outputs {
+  address {
+    network: 2471172352
+    ledger: 3887102464
+    id {
+      value: "\003\371\201cn\031\354\223f\000\000*\362\344DY\v\321bk\276,\216/\346\235\365\253H\254jt"
+    }
+  }
+  value {
+    topl {
+      quantity {
+        value: "\000\230\226\200"
+      }
+    }
+  }
+}
+outputs {
+  address {
+    network: 2471172352
+    ledger: 3887102464
+    id {
+      value: "\003\371\201cn\031\354\223f\000\000*\362\344DY\v\321bk\276,\216/\346\235\365\253H\254jt"
+    }
+  }
+  value {
+    lvl {
+      quantity {
+        value: "\000\230\226\200"
+      }
+    }
+  }
+}
+datum {
+  event {
+    schedule {
+      min: 0
+      max: 0
+      timestamp: 1698780003043
+    }
+    metadata {
+      value: ""
+    }
+  }
+}
