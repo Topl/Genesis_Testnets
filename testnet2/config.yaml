@@ -1,0 +1,5 @@
+bifrost:
+  big-bang:
+    type: public
+    genesis-id: b_EyNPwteBBfESqrLKPUQ3xRaxaDPESTTENKgMrkTMYGYa
+    source-path: https://raw.githubusercontent.com/Topl/Genesis_Testnets/BN-1269-migrate-public-testnet-to-testnet-topl-co/testnet2
