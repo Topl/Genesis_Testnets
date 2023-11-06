@@ -1,5 +1,5 @@
 bifrost:
   big-bang:
     type: public
-    genesis-id: b_Ed58mhKaR6VAWNTiWT3K33zdDJLrB4Cd2FsrnXxBuDc8
+    genesis-id: b_DcG4Wes6DqcNqpJTKDg6Sfvcib8JTgZJ6QTHdJGz5DEd
     source-path: https://raw.githubusercontent.com/Topl/Genesis_Testnets/7-staker-testnet/testnet1
