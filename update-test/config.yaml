@@ -1,0 +1,5 @@
+bifrost:
+  big-bang:
+    type: public
+    genesis-id: b_36wxF3f3BT5vvjzQjRqwGjsKaVQD1gKUvAK1Q6B3vCV2
+    source-path: https://raw.githubusercontent.com/Topl/Genesis_Testnets/update-during-epoch/update-test
