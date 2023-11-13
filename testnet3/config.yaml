@@ -1,5 +1,5 @@
 bifrost:
   big-bang:
     type: public
-    genesis-id: b_E86F5tt19st1Xvu3Gsyb7wNcsiSE4yK2NAdUdtRk2gbA
+    genesis-id: b_FbRLB68FoRrtnFxrDDa7u8PEUroFbXnJLdPXiQ1e45v
     source-path: https://raw.githubusercontent.com/Topl/Genesis_Testnets/update-dev-testnet/testnet3
