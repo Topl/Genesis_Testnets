@@ -1,5 +1,5 @@
 bifrost:
   big-bang:
     type: public
-    genesis-id: b_dTMdNhPGERFft8XPspnowYEkCXXDcAkH5To119LCdkh
+    genesis-id: b_BfFxHHQjhuHD3HLFzrUfLKaZ48p94JjwFU2JiiSyWYBa
     source-path: https://raw.githubusercontent.com/Topl/Genesis_Testnets/update-during-epoch/openstack-test
