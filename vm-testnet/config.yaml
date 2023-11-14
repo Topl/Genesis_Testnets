@@ -1,0 +1,5 @@
+bifrost:
+  big-bang:
+    type: public
+    genesis-id: b_44nvTkfUHAKNcyC8toasi5DKhCcqL1rS1fKDPM2Z6mjt
+    source-path: https://raw.githubusercontent.com/Topl/Genesis_Testnets/update-dev-testnet/vm-testnet
