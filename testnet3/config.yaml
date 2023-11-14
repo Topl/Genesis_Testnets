@@ -3,3 +3,6 @@ bifrost:
     type: public
     genesis-id: b_FbRLB68FoRrtnFxrDDa7u8PEUroFbXnJLdPXiQ1e45v
     source-path: https://raw.githubusercontent.com/Topl/Genesis_Testnets/update-dev-testnet/testnet3
+  p2p:
+    network-properties:
+      expected-slots-per-block: 20
