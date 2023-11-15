@@ -1,0 +1,5 @@
+bifrost:
+  big-bang:
+    type: public
+    genesis-id: b_HD4oXTrPyiYsQwUASgyJtu5gpeZcnYaX6hav2EFGwW7C
+    source-path: https://raw.githubusercontent.com/Topl/Genesis_Testnets/ricks-new-testnet2/ricks-new-testnet
