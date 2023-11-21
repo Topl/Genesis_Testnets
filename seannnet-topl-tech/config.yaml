@@ -1,0 +1,8 @@
+bifrost:
+  big-bang:
+    type: public
+    genesis-id: b_EdpSqf7e9bb3CxG8NwDHSSDCEEEw6V6rWMm9hYYq4D51
+    source-path: https://raw.githubusercontent.com/Topl/Genesis_Testnets/seannnet/seannnet-topl-tech
+  p2p:
+    network-properties:
+      expected-slots-per-block: 20
