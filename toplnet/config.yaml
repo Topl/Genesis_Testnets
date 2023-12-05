@@ -2,7 +2,7 @@ bifrost:
   big-bang:
     type: public
     genesis-id: b_BFa2yPvrAAR9GANsBusEnavukdZkxJKCTeQjv93UpUM2
-    source-path: https://raw.githubusercontent.com/Topl/Genesis_Testnets/toplnet-dry-run/toplnet-topl-co
+    source-path: https://raw.githubusercontent.com/Topl/Genesis_Testnets/toplnet-dry-run/toplnet
   p2p:
     network-properties:
       expected-slots-per-block: 20
