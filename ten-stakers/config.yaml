@@ -1,0 +1,8 @@
+bifrost:
+  big-bang:
+    type: public
+    genesis-id: b_B5k9zgeaMGpomUTgBF39SW4UzwB16SZXmrjyDT2ETrDJ
+    source-path: https://raw.githubusercontent.com/Topl/Genesis_Testnets/ten-stakers/ten-stakers
+  p2p:
+    network-properties:
+      expected-slots-per-block: 20
