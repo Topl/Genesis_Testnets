@@ -6,3 +6,6 @@ bifrost:
   p2p:
     network-properties:
       expected-slots-per-block: 20
+  protocols:
+    0:
+      epoch-length-override: 120000
