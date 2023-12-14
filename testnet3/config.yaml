@@ -1,11 +1,8 @@
 bifrost:
   big-bang:
     type: public
-    genesis-id: b_9MCCshXRyRPrT9uZMPfUBV3d1fctZyF5Pk6AmciRpYiw
+    genesis-id: b_BJp2boSCGxFMf5Q72f5RF2Wvd18mMUBcx6t6KteUqQtE
     source-path: https://raw.githubusercontent.com/Topl/Genesis_Testnets/update-dev-testnet/testnet3
   p2p:
     network-properties:
-      expected-slots-per-block: 20
-  protocols:
-    0:
-      epoch-length-override: 3000
+      expected-slots-per-block: 10

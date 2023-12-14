@@ -14,11 +14,11 @@ outputs {
           value: "\003"
         }
         denominator {
-          value: "\024"
+          value: "\031"
         }
       }
       vrfLddCutoff {
-        value: 50
+        value: 15
       }
       vrfPrecision {
         value: 40
@@ -40,7 +40,7 @@ outputs {
         }
       }
       chainSelectionKLookback {
-        value: 500
+        value: 5184
       }
       slotDuration {
         seconds: 1
@@ -50,7 +50,7 @@ outputs {
         value: 50
       }
       operationalPeriodsPerEpoch {
-        value: 24
+        value: 25
       }
       kesKeyHours {
         value: 9
@@ -98,7 +98,7 @@ datum {
     schedule {
       min: 0
       max: 0
-      timestamp: 1700259024229
+      timestamp: 1702580771019
     }
     metadata {
       value: ""
