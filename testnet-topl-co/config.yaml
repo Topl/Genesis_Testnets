@@ -1,0 +1,8 @@
+bifrost:
+  big-bang:
+    type: public
+    genesis-id: b_BoRj4SEHRzbZjJfaUa5YJ39QWsB8XAua9hLD5yftmW9K
+    source-path: https://raw.githubusercontent.com/Topl/Genesis_Testnets/BN-1425-update-testnet-topl-co-to-use-multi-node-setup/testnet-topl-co
+  p2p:
+    network-properties:
+      expected-slots-per-block: 10
